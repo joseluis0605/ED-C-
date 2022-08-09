@@ -1,6 +1,3 @@
-//
-// Created by alfon on 09/03/2021.
-//
 
 #include "TListaEnlazadaSimple.h"
 #include "stdlib.h"
